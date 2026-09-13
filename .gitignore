@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+ml/model.joblib
+data/*.db
+data/urls.csv
+.env
+data/PhiUSIIL_Phishing_URL_Dataset.csv 
